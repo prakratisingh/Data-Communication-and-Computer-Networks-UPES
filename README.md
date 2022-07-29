@@ -14,4 +14,4 @@ The process of removing the 0 after five consecutive 1's in the received signal 
 destuffing.
 
 ## LAB 3 ##
-To check if data frame contains noise
+To check if data frame contains noise.
