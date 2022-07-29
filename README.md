@@ -12,3 +12,6 @@ consecutive 1’s in it.
 ###### Destuffing 
 The process of removing the 0 after five consecutive 1's in the received signal is called 
 destuffing.
+
+## LAB 3 ##
+To check if data frame contains noise
