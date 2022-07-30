@@ -17,4 +17,4 @@ destuffing.
 To check if data frame contains noise.
 
 ## LAB 4 ##
-To ccalculate backoff time
+To ccalculate backoff time from propagation time and noise.
