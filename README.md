@@ -15,3 +15,6 @@ destuffing.
 
 ## LAB 3 ##
 To check if data frame contains noise.
+
+## LAB 4 ##
+To ccalculate backoff time
