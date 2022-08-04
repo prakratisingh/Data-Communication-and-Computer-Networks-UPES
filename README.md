@@ -21,3 +21,6 @@ To ccalculate backoff time from propagation time and noise.
 
 ## LAB 5 ##
 To calculate time taken for signal to propagate.
+
+## LAB 6 ##
+CSMA/CA code
